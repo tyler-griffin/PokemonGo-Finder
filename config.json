@@ -1,0 +1,9 @@
+{
+"username": "tylergpokemon",
+"password": "tylergpokemon",
+"step_limit": 99999,
+"location": "41.886206, -87.648931",
+"notify": "Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Pikachu,Raichu,Sandshrew,Sandslash,,Nidorina,Nidoqueen,Nidorino,Nidoking,Clefairy,Clefable,Vulpix,Ninetales,Oddish,Gloom,Vileplume,Diglett,Dugtrio,Growlith,Arcanine,Poliwag,Poliwhirl,Poliwrath,Abra,Kadabra,Alakazam,Machop,Machoke,Machamp,Bellsprout,Weepinbell,Victreebel,Geodude,Graveler,Golem,Magnemite,Magneton,Farfetch'd,Doduo,Dodrio,Grimer,Muk,Voltorb,Electrode,Exeggcute,Exeggutor,Cubone,Marow,Hitmonlee,Hitmonchan,Lickitung,Koffing,Weezing,Rhyhorn,Rhydon,Tangela,Kangaskhan,Mr. Mime,Magikarp,Gyarados,Ditto,Eevee,Vaporeon,Jolteon,Flareon,Omanyte,Omastar,Kabuto,Kabutops,Aerodactyl,Articuno,Zapdos,Moltres,Dratini,Dragonair,Dragonite,Mewtwo,Mew",
+"ignore": "weedle,zubat,pidgey",
+"pushbullet": "o.4OaYjA9asMq0ASaZAvsV9Rjq7jWqrDMx"
+}
